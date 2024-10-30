@@ -394,9 +394,9 @@ section
 @media (max-width: 1024px) {
     #menu-icon {
         display: block;
-        font-size: 3rem;
-        width: 3.5rem; 
-        height: 3.5rem; 
+        font-size: 4rem;
+        width: 4.5rem; 
+        height: 4.5rem; 
         cursor: pointer; 
     }
     .navbar {
