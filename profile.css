@@ -394,7 +394,7 @@ section
 @media (max-width: 1024px) {
     #menu-icon {
         display: block;
-        font-size: 4rem;
+        font-size: 4rem; 
         width: 4.5rem; 
         height: 4.5rem; 
         cursor: pointer; 
@@ -447,4 +447,3 @@ section
         flex-direction: column;
     }
 }
-
