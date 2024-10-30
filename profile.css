@@ -431,6 +431,9 @@ section
     }
     .home-img img {
         width: 52vw;
+        height: 52vw;
+        object-fit: cover;
+        object-position: top;
     }
     .about {
         flex-direction: column-reverse;
@@ -442,6 +445,9 @@ section
     }
     .about img {
         width: 52vw;
+        height: 52vw;
+        object-fit: cover;
+        object-position: top;
     }
     .contact form {
         flex-direction: column;
